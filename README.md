@@ -7,7 +7,7 @@ This project is a front-end recreation of the Cursor official landing page UI, b
 ## Sections Recreated
 
 ### Navigation Bar 
-![Navbar Screenshot](img/ss1.png)
+![Navbar Screenshot](Assignment2_Cursorimg/ss1.png)
 
 A fixed navigation bar containing the Cursor logo, primary navigation links (Features, Enterprise, Pricing, Resources), and action buttons for Sign In and Download.
 
